@@ -79,7 +79,14 @@
     margin-bottom: 70px;
 }
 
-.table td {
+.theadTable{
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    vertical-align: revert !important;
+}
+
+.table{
     text-align: center;
     align-items: center;
     justify-content: center;
@@ -91,6 +98,10 @@ Modal*/
     display: none;
     background-color: transparent;
     transition: all 0.25s ease;
+}
+
+.modal-body{
+    overflow-y: auto;
 }
 
 .modal.open {
