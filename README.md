@@ -1,7 +1,5 @@
 # Aplicaciones Java SobreWeb
 
-apiBackend
+ApiFrontend : https://ajsw-api-frontend.herokuapp.com/
 
-apiFrontend
-
-clientApp -> https://github.com/patricioarena/clientApp_react
+ApiBackend: https://ajsw-api-backend.herokuapp.com/swagger-ui.html
